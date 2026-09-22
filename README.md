@@ -7,7 +7,7 @@ This website showcases my **skills, projects, education, certifications, and int
 
 ### 🌐 Live Portfolio
 
-**[✨ Visit My Portfolio]()**
+**✨[View My Portfolio](https://reesmanmaf14.github.io/Portfolio/)**
 
 ### 🛠️ Tech Stack
 
@@ -19,12 +19,11 @@ This website showcases my **skills, projects, education, certifications, and int
 ### 📌 Featured Projects
 
 * 🏥 **SpeechCare** — Web-Based Clinic Management System
-* 🎓 **SLIATE Smart Student Management System** — Face & QR Attendance
 * 📚 **Book Selling Application** — C# Desktop Application
 
 ### 🎯 Interests
 
-`Full-Stack Development` · `Software Development` · `AI/ML` · `UI/UX`
+`· Full-Stack Development` · `AI/ML` · `UI/UX`
 
 ### 🔗 Connect With Me
 
