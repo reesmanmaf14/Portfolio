@@ -25,10 +25,6 @@ This website showcases my **skills, projects, education, certifications, and int
 
 `· Full-Stack Development` · `AI/ML` · `UI/UX`
 
-### 🔗 Connect With Me
-
-[GitHub](YOUR-GITHUB-PROFILE-LINK) · [LinkedIn](YOUR-LINKEDIN-LINK)
-
 ---
 
 ⭐ **Explore my portfolio and projects!**
